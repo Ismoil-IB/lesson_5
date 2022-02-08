@@ -12,7 +12,7 @@ font-family: 'Lobster', cursive;*/
 }
 .block {
 	background-color: rgb(185, 183, 40);
-	font-family: 'Comfortaa' cursive;
+	font-family: 'Comfortaa', cursive;
 	font-weight: 500;
 	font-size: 25px;
 	text-align: center;
@@ -40,7 +40,7 @@ font-family: 'Lobster', cursive;*/
 }
 .block4 {
 	background-color: rgb(185, 40, 178);
-	font-family: 'Comfortaa' cursive;
+	font-family: 'Comfortaa', cursive;
 	font-weight: 600;
 	font-size: 25px;
 	text-align: center;
@@ -59,7 +59,7 @@ font-family: 'Lobster', cursive;*/
 }
 .block6 {
 	background-color: rgb(223, 247, 9);
-	font-family: 'Comfortaa' cursive;
+	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
 	font-size: 30px;
 	text-align: left;
